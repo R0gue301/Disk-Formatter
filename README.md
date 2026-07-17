@@ -17,4 +17,4 @@ Lets you to easily format multiple disks (volumes) at the same time
 
 
 
-It also gives you status messages and adapts to your Windows there dynamicly, ig
+It also gives you status messages and adapts to your Windows theme dynamicly, ig
