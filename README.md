@@ -1,4 +1,4 @@
-# Disk-Formatter
+# Drive-Formatter
 Lets you to easily format multiple drives (volumes) at the same time
 
 # It does what it says it does
