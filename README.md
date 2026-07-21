@@ -1,5 +1,5 @@
 # Disk-Formatter
-Lets you to easily format multiple disks (volumes) at the same time
+Lets you to easily format multiple drives (volumes) at the same time
 
 # It does what it says it does
 
